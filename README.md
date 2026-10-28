@@ -1,9 +1,0 @@
-## Hi there 👋
-- 🔭 I🔭 **I’m currently working on** Data Analytics, Data Annotation, AI/ML projects, data quality improvement, and business growth strategies.
-🤝 **I’m looking to collaborate on** Data Analytics, AI/ML, Computer Vision, Video Annotation, Data Engineering, and Digital Marketing Analytics projects.
-🛠️ **I’m looking for help with** advanced data analysis, building efficient data pipelines, machine learning applications, and solving real-world business problems using data.
-🌱 **I’m currently learning** advanced Python, SQL, Pandas, NumPy, Power BI, data visualization, machine learning, and marketing data analysis.
-💬 **Ask me about** Python, SQL, MySQL, SQLite, Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning, Data Annotation, Image and Video Processing, OpenCV, OCR, Data Visualization, and Business Analytics.
-⚡ **Fun fact:** I enjoy transforming raw data, images, and videos into meaningful insights and actionable solutions that help businesses make smarter, data-driven decisions.’m currently working on ...
-  
--->
